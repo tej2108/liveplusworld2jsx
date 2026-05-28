@@ -31,7 +31,7 @@ function PricingCard({ title, priceAmount, pricePeriod, includesText, features, 
                                 <span className="checkmark">✓</span>
                                 {feature}
                             </li>
-                        ))}
+                        )}
                     </ul>
                 </div>
             </div>
